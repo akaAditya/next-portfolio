@@ -1,3 +1,5 @@
+// import resume from "../../public/resume"
+export const resume = '/resume/AdityaKumarPatel-SoftwareEngineer.pdf'
 export const projects = [
   {
     title: "E-Commerce",
@@ -53,3 +55,4 @@ export const TimeLineData = [
     text: "Trained in Web Development from Sharpener.tech",
   },
 ];
+
