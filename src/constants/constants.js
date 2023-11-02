@@ -7,7 +7,7 @@ export const projects = [
     image: "/images/ecommerce.jpg",
     tags: ["React JS", "React-Bootstrap", "Firebase"],
     source: "https://github.com/akaAditya/E-Commerce-Website",
-    visit: "https://thunderous-halva-6eacc2.netlify.app/",
+    visit: "https://kaleidoscopic-chimera-2d1d22.netlify.app/",
     id: 0,
   },
   {
@@ -42,6 +42,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
+  {
+    year: 'Batch 2018',
+    text: 'Completed B.E. in CSE' 
+  },
   {
     year: 2019,
     text: "I gave Maths & Science coaching to SSC students",
