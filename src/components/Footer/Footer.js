@@ -9,13 +9,13 @@ import { resume } from '@/constants/constants';
 const Footer = () => {
   const {download} = useDownloader();
   const fileUrl = resume;
-  const fileName = 'AdityaKumarPatel-SoftwareEngineer.pdf'
+  const fileName = 'AdityaKumarPatel_SDE.pdf'; 
   return (
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
         <LinkTitle>Call</LinkTitle>
-        <LinkItem href='tel: +919617870603'>+91 96178 70603</LinkItem>
+        <LinkItem href='tel: +919617870603'>+91 9617870603</LinkItem>
         </LinkColumn>
         <LinkColumn>
         <LinkTitle>Email</LinkTitle>

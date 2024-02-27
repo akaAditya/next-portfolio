@@ -9,15 +9,14 @@ const Technologies = () =>  (
     <br />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>I gained lots of knowledge and confidence by creating mini projects using interactive ReactJS library and NextJS.</SectionText>
+    <SectionText>I gained lots of knowledge and confidence by creating mini projects using interactive React.js, Next.js, and Express.js.</SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem"/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experienced with <br />
-            ReactJS, NextJS, JavaScript ES6+, HTML5, CSS3, Tailwind, React-Bootstrap
+            React.js, Next.js, Redux, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,8 +25,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Learning <br />
-            NodeJS, ExpressJS
+            Node.js, Express.js, Mongoose
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,8 +35,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Tools & Databases</ListTitle>
           <ListParagraph>
-            Experienced with <br />
-            MongoDB, Firebase, GitHub, VS Code
+            MongoDB, Firebase, GitHub, VS Code, Postman
           </ListParagraph>
         </ListContainer>
       </ListItem>
