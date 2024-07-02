@@ -1,5 +1,5 @@
 // import resume from "../../public/resume"
-export const resume = "/resume/AdityaKumarPatel_SDE.pdf";
+export const resume = "/resume/AdityaKumarPatel-SDE.pdf";
 export const projects = [
   {
     title: "FlixLuxe Online Movie WebApp",
