@@ -52,7 +52,7 @@ export const TimeLineData = [
   },
   {
     year: 2021,
-    text: "Data Annotation Specialists in Deep Cognition India Pvt. Ltd. Bengaluru",
+    text: "Data Annotation Specialists in Deep Cognition India Pvt. Ltd., Bengaluru",
   },
   {
     year: 2023,
