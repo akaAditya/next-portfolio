@@ -9,7 +9,7 @@ import { resume } from '@/constants/constants';
 const Footer = () => {
   const {download} = useDownloader();
   const fileUrl = resume;
-  const fileName = 'AdityaKumarPatel-SDE.pdf'; 
+  const fileName = 'AdityaKumarPatel_SDE.pdf'; 
   return (
     <FooterWrapper>
       <LinkList>
